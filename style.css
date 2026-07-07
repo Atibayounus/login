@@ -1,0 +1,31 @@
+h1{
+    font-family:cursive;
+    color: crimson;
+    text-align: center;
+   
+}
+legend{
+    color: crimson;
+    width: auto;
+}
+*{
+    background-color: black;
+}
+label{
+    color: white;
+    text-align: center;
+   
+}
+
+fieldset {
+    width: 400px;
+    margin: 100px auto;
+   
+}
+input {
+    color: white;
+}
+button{
+    color: black;
+    background-color:white;
+}
