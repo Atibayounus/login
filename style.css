@@ -1,18 +1,18 @@
 h1{
     font-family:cursive;
-    color: crimson;
+    color: blue;
     text-align: center;
    
 }
 legend{
-    color: crimson;
+    color: blue;
     width: auto;
 }
 *{
     background-color: black;
 }
 label{
-    color: white;
+    color: blue;
     text-align: center;
    
 }
@@ -23,9 +23,9 @@ fieldset {
    
 }
 input {
-    color: white;
+    color: blue;
 }
 button{
-    color: black;
+    color: blue;
     background-color:white;
 }
